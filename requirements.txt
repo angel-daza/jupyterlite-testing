@@ -29,6 +29,10 @@ jupyterlab-night
 # JupyterLab: Miami nights theme (optional)
 jupyterlab_miami_nights
 
+# JupyterLab Local File Management
+# See what issue this solves: https://github.com/jupyterlite/jupyterlite/issues/403
+jupyterlab-filesystem-access
+
 # Python: ipywidget library for Jupyter notebooks (optional)
 ipywidgets>=8.1.1,<9
 # Python: ipyevents library for Jupyter notebooks (optional)
