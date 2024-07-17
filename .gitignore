@@ -1,3 +1,7 @@
+.venv/
+pre_processing_notebooks/non_fiction_filenames.txt
+pre_processing_notebooks/data/
+
 *.bundle.*
 lib/
 node_modules/
